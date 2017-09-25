@@ -1,0 +1,174 @@
+.myaccountnav{margin-top:40px}
+.myaccountnav .list-menu ul.level-1 > li.lfr-nav-item.open.selected.active > a{
+                background-color: #E62037;
+    color: white;
+    padding: 5px 100px 5px 5px;
+    font-size: 15px;
+}
+.myaccountnav .list-menu ul.level-2{
+                padding: 10px 10px;
+    width: 60%;
+}
+.myaccountnav .list-menu ul.level-2 li{
+                border-bottom: 2px solid darkgrey;
+    padding: 5px;
+}
+
+
+
+
+
+/* myaccount myorder */
+
+.TelkomMyOrderWC1 .order_list{ margin-top:25px; } 
+.TelkomMyOrderWC1 .table-header{ background:#E62037; color:white; } 
+.TelkomMyOrderWC1 .table-body{ background: #D3D3D3; } 
+.TelkomMyOrderWC1 .order_class{ margin-top:20px; } 
+.TelkomMyOrderWC1 .user_heading{ border-top : 2px solid #E62037; border-bottom : 2px solid #E62037;background-color: #E62037; height: 30px;} 
+.TelkomMyOrderWC1 .heading{ padding-top:2px; padding-left:10px; color:white; font-size:15px; } 
+.TelkomMyOrderWC1 .a{color: #E62037;}
+.TelkomMyOrderWC1 .portlet-content .portlet-content-editable{margin-top:5px;}
+
+/* myaccount mySavedCard */
+.TelkomMySavedCardWC1 .card1 h4{ display:inline-block; color:black; font-size:14px; } 
+.TelkomMySavedCardWC1 .card1 label h2{ color:black; }
+.TelkomMySavedCardWC1 .card a{ margin-left:10px; } 
+.TelkomMySavedCardWC1 .add-button{ margin-top:20px; } 
+.TelkomMySavedCardWC1 .user_heading{ border-top : 2px solid #E62037; border-bottom : 2px solid #E62037; background-color: #E62037; height: 30px; } 
+.TelkomMySavedCardWC1 .heading{ padding-top:2px; padding-left:10px; color:white; } 
+.TelkomMySavedCardWC1 .image_card{ margin-top: 10px; } 
+.TelkomMySavedCardWC1 .card-details{ margin-left:20px; margin-top: 30px; } 
+.TelkomMySavedCardWC1 .order_list{ margin-top:25px; }
+.TelkomMySavedCardWC1 .order_list h2{font-size: 26px;color: #000;    padding-left: 22px;}
+.TelkomMySavedCardWC1 .card1 a{ color: #6d6e71;padding-left: 12px;font-weight: bold;}
+.TelkomMySavedCardWC1 .card1 a:hover{color: #E62037;}
+.TelkomMySavedCardWC1 .add-button > input{ margin-right:15px; }
+.TelkomMySavedCardWC1 .btn-danger{    background-color: #E62037;
+    border-radius: 0;
+    font-size: 14px;
+    border-color: transparent;
+    padding: 10px;
+    color: #fff;}
+.TelkomMySavedCardWC1 .btn-danger:hover{    background-color: #E62037;
+    border-radius: 0;
+    font-size: 14px;
+    border-color: transparent;
+    padding: 10px;
+    color: #fff;} 
+.TelkomMySavedCardWC1 .portlet-content .portlet-content-editable{margin-top:5px;}
+
+/* myaccount mywhishlist */
+ .TelkomMyWishlistWC1 .wishlist{ border:2px solid #ccc; height:150px; margin-left:30px; margin-top:20px; } 
+ .TelkomMyWishlistWC1 .wishdes{ } .wishdes{ float:left; margin-left:70px; } 
+ .TelkomMyWishlistWC1 .wishlistmore{ margin-left:100px; } 
+ .TelkomMyWishlistWC1 .wishclose{ border:20px circle #E62037; } 
+ .TelkomMyWishlistWC1 .user_heading{ border-top : 2px solid #E62037; border-bottom : 2px solid #E62037; background-color: #E62037; height: 30px; } 
+ .TelkomMyWishlistWC1 .heading{ padding-top:2px; padding-left:10px; color:white; } 
+ .TelkomMyWishlistWC1 .order_list{ margin-top:25px; } 
+ /*.TelkomMyWishlistWC1 .wishlistclose{ opacity:1; position:Â relative;Â  Â  right:Â -12px;Â  Â  top:Â 21px; } */
+ /*.TelkomMyWishlistWC1 .wishcross{ color: white; background-color: #E62037; padding: 5px 10px; border-radius: 5px; font-size: 20px; width: 25px; text-decoration: none; margin: 5px 2px; } */
+ .TelkomMyWishlistWC1 .wishcross{
+	 color: white;
+    background-color: #E62037;
+    padding: 1px 10px 3px 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 25px;
+    text-decoration: none;
+    margin: 4px 2px;
+    vertical-align: middle;
+    text-align: center;
+ }
+ .TelkomMyWishlistWC1 .btn-danger{    background-color: #E62037;
+    border-radius: 0;
+    font-size: 14px;
+    border-color: transparent;
+    padding: 10px;
+    color: #fff;}
+.TelkomMyWishlistWC1 .btn-danger:hover{    background-color: #E62037;
+    border-radius: 0;
+    font-size: 14px;
+    border-color: transparent;
+    padding: 10px;
+    color: #fff;}
+.TelkomMyWishlistWC1 .portlet-content .portlet-content-editable{margin-top:5px;}
+
+ /* myaccount myprofile */
+ .TelkomMyProfileWC1 .order_list{ margin-top:25px; } 
+.TelkomMyProfileWC1 .user_heading{ border-top : 2px solid #E62037; border-bottom : 2px solid #E62037; background-color: #E62037; height: 30px; } 
+.TelkomMyProfileWC1 .heading{ padding-top:2px; padding-left:10px; color:white; } 
+.TelkomMyProfileWC1 .order_class{ margin-top:20px; } 
+.TelkomMyProfileWC1 .portlet-content .portlet-content-editable{margin-top:5px;}
+.TelkomMyProfileWC1 label{color: #000;}
+	 /* myaccount myupdate profile */
+	 
+.TelkomMyUpdateProfileWC1 .user_heading{ border-top : 2px solid #E62037; border-bottom : 2px solid #E62037; background-color: #E62037; height: 30px; } 
+.TelkomMyUpdateProfileWC1 .heading{ padding-top:2px; padding-left:10px; color:white; } 
+.TelkomMyUpdateProfileWC1 .order_class{ margin-top:30px; } 
+.TelkomMyUpdateProfileWC1 .order_list{ margin-top:25px; } 
+.TelkomMyUpdateProfileWC1 .portlet-content .portlet-content-editable{margin-top:5px;}
+ .TelkomMyUpdateProfileWC1 .btn-danger{    background-color: #E62037;
+    border-radius: 0;
+    font-size: 14px;
+    border-color: transparent;
+    padding: 10px;
+    color: #fff;}
+.TelkomMyUpdateProfileWC1 .btn-danger:hover{    background-color: #E62037;
+    border-radius: 0;
+    font-size: 14px;
+    border-color: transparent;
+    padding: 10px;
+    color: #fff;}
+.TelkomMyUpdateProfileWC1 label{color: #1f140c;font-weight: bold;padding:10px; margin:0px;}
+.TelkomMyUpdateProfileWC1 input{border: 1px solid #e0d9d4;color: #4a321f;}
+ /* myaccount Key management */
+
+.TelkomKeyManagementWC1 .user_heading{ border-top : 2px solid #E62037; border-bottom : 2px solid #E62037; background-color: #E62037; height: 30px; }
+.TelkomKeyManagementWC1  .heading{ padding-top:2px; padding-left:10px; color:white; } 
+.TelkomKeyManagementWC1 .keytable{ margin-top:20px; } 
+.TelkomKeyManagementWC1 .order_list{ margin-top:25px; } 
+.TelkomKeyManagementWC1 .theader{ font-weight:bold; background: #C0C0C0; } 
+.TelkomKeyManagementWC1 .thbody{ background:#D3D3D3; } 
+.TelkomKeyManagementWC1 .portlet-content .portlet-content-editable{margin-top:5px;}
+
+/* myaccount change password */
+
+.TelkomChangePasswordWC1 label{color: #1f140c;font-weight: bold; padding:5px;margin:0px !important;}
+.TelkomChangePasswordWC1 input{border: 1px solid #e0d9d4;color: #4a321f;}
+.TelkomChangePasswordWC1 .btn-danger{    background-color: #E62037;
+    border-radius: 0;
+    font-size: 14px;
+    border-color: transparent;
+    padding: 10px;
+    color: #fff;}
+.TelkomChangePasswordWC1 .btn-danger:hover{    background-color: #E62037;
+    border-radius: 0;
+    font-size: 14px;
+    border-color: transparent;
+    padding: 10px;
+    color: #fff;}
+.TelkomChangePasswordWC1 .user_heading{border-top: 2px solid #E62037;border-bottom: 2px solid #E62037;background-color: #E62037;height: 30px;}
+
+
+
+
+
+
+/* iPads (portrait) ----------- */
+@media only screen
+and (min-width : 768px)
+and (max-width : 1024px)
+and (orientation : portrait){
+    .myaccountnav .list-menu ul.level-2 {width: 32%;}
+}
+/* iPads (landscape) ----------- */
+@media only screen
+and (min-width : 768px)
+and (max-width : 1024px)
+and (orientation : landscape){
+                .myaccountnav .list-menu ul.level-2 {width: 93%;}
+}
+/****phone*****/
+@media screen and (max-width: 767px) and (min-width: 320px){
+                .myaccountnav .list-menu ul.level-2 {width:78%;}
+}

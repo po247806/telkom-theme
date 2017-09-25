@@ -1,0 +1,28 @@
+.successpage .popupContent {
+    padding: 12% 0 12% 0;
+    font-size: 14px;
+    line-height: 1.7em !important;
+    font-weight: bold;
+    text-align: center;
+}
+
+.successpage .popupTop {
+    background: #E62037;
+    height: 10px;
+    margin: 0 1px 0 1px;
+}
+
+.successpage .modalDialog>div {
+    width: 55%;
+    position: relative;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #e62037;
+    border-radius: 3px;
+}
+
+.successpage .modalDialog {
+    position: relative;
+    vertical-align: middle !important;
+    transform: translateY(100%);
+}

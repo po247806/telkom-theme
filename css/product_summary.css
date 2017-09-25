@@ -1,0 +1,77 @@
+.APISummary .caret{
+    transform: translateZ(0);
+    float: left;
+    border-top: 16px dashed;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+    margin-left: -30px;
+    margin-top: 12px;
+pointer-events:none;
+}
+.APISummary .apiSummaryContainer{
+clear :both;
+}
+.APISummary .descApp{
+Padding-top:20px;
+}
+.APISummary .container .home_box {
+         margin-top: 20px;
+}
+.APISummary .smsimg{
+    float: left;
+    width: 20%;
+    padding-top: 10px;
+}
+.APISummary .smsotpcontenttop{
+    float: left;
+    width: 80%;
+    padding-left: 4%;}
+
+.APISummary .home_box p {font-size: 14px;
+margin-bottom: 20px;}
+
+.APISummary .marginwidth{width:90%;margin:0 auto;}
+.APISummary .readmore a{background-color:none;border:1px solid #E62037;  display: block;text-align: center;color:black; }
+ 
+.APISummary .readmore{   width: 128px; margin-top:20px;  background-color:none; border:#E62037 ;
+    color: #000 !important;  }
+
+.APISummary .selectOption,.APISummary .selectOption:focus{
+    border-color: #E62037;
+float:left;
+    color:black;
+    display: block;
+    background-color: #fff;
+    max-width: 140px;
+padding: 8px 5px 8px 4px;
+    -webkit-padding-after: 8px;
+    -webkit-padding-before: 8px;
+    -webkit-padding-start: 9px;
+    -webkit-padding-end: 5px;
+border:1px solid #E62037;
+outline:none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width:44% !important;
+}
+.APISummary option{
+padding-top:0px;
+}
+.APISummary h4{
+padding:0px 0px 20px 0px;
+font-size: 24px;
+}
+.portlet-body .breadcrumb {
+    margin-bottom: 20px !important;
+	height: 30px;
+}
+.portlet-journal-content .journal-content-article img{
+height: 80px;
+width:100%;
+}
+
+ .container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}

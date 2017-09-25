@@ -1,0 +1,60 @@
+/* terms and conditions */
+.TelkomTTWC1 ul{padding-left:20px;}
+.TelkomTTWC1 li{list-style:disc;}
+/* Legal statements */
+.TelkomLegalWC1{padding-left:5px;}
+/* Accesibility Statements */
+.TelkomAccessibleWC1{padding-left:5px;}
+
+/*  aboutUs */
+.aboutUs .contentDownload h4{
+   padding:0px 0px !important;
+}
+.download:hover, .download:active {background-color: #E62037; color: #fff;}
+.download{
+    float: right;
+    background: none;
+	
+border-color: #E62037;
+    border-radius: 0;
+    font-size: 14px;
+    padding: 10px;
+    color: #000;
+min-width:128px;
+}
+.download:hover,.download:focus,.download:active{
+color:#fff !important;
+}
+.listStyles{
+    color: black;
+
+    font-weight: bold;
+}
+.titleSub{
+	color: #E62037;
+    font-weight: bold;
+}
+.aboutUs .ulStyle{
+      padding-left: 17px;
+}
+.aboutUs .liStyle{
+list-style: circle;
+    list-style-position: outside;
+}
+.aboutUs p{
+margin:20px 0px;
+}
+
+.portlet-body .journal-content-article .contentDownload h4{
+	font-size: 24px;
+}
+.aboutUs .journal-content-article p {
+    font-size: 14px;
+}
+
+:focus {
+    outline-color: #E62037 !important;
+}
+/*  aboutUs end*/
+
+

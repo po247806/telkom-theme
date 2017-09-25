@@ -1,0 +1,5 @@
+@media only screen 
+and (max-width: 767px) 
+and (min-width: 320px)
+and (orientation : landscape){#portlet_com_liferay_dynamic_data_lists_form_web_portlet_DDLFormPortlet_INSTANCE_jj7g0Oowqsz4 
+.lfr-ddm-form-field-container .liferay-ddm-form-field-text .input-group-container{width:100% !important;}}

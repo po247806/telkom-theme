@@ -1,0 +1,81 @@
+/* homepage */
+#columns-1 .portlet-layout .portlet-column {padding:0px !important;}
+.telkomHomeWC1 .banner{background-repeat: no-repeat;background-size: 100% auto; position: relative;width: 200%;left: -50%;}
+.telkomHomeWC1 .banner .backImg{opacity: 0.1;position: absolute;height: 235px;width: 100% !important;}
+.telkomHomeWC1 .banner .homeLogo{padding-top: 20px !important;}
+.telkomHomeWC1 .banner .ourAPIcontent{width: 360px;padding:15px 0px 0px 0px;font-size: 20px; margin: 0 auto;}
+.telkomHomeWC1 .banner .text-center{font-size: 17px;text-align: center;font-weight: bold;padding:0px;margin:0px;}
+.telkomHomeWC1 .hlogo .img-responsive {height: 140px !important;width: 360px !important;margin:0 auto;}
+.telkomHomeWC1 .text-center{letter-spacing: 0.5px;}
+.telkomHomeWC1 .homeinnersection {margin: 0 auto;}
+
+.telkomHomeWC1 .carousel-inner{
+width:100%;
+height:250px !important;
+}
+.telkomHomeWC1 .img-responsive {
+    margin: 0 auto;
+    height: 215px !important;
+    width: 100% !important;
+    padding: 0px;
+}
+.telkomHomeWC1 .text-center{
+text-align: center;
+    color: #E62037;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.telkomHomeWC2 .banner { background-repeat: no-repeat; background-size: 100% auto; }
+.telkomHomeWC2 .banner > img { opacity: 0.1; position: absolute; } 
+.telkomHomeWC2 .homeLogo { padding-top: 25px !important; width: 90%; }
+.telkomHomeWC2 .ourAPIcontent { padding-bottom: 36px; padding-top: 0px; font-size: 17px; }
+.telkomHomeWC2 .homeBannerSection portlet-content{padding:0px !important;margin:0px !important;} 
+.telkomHomeWC2 .imageDiv{width: 21%;    margin: 0 auto;}
+.telkomHomeWC2 .readMore{         background: none;
+    min-width: 128px;
+    border: 1px solid #E62037;
+    color: #000;
+    display: inline-block;
+    margin: 10px 0px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.telkomHomeWC2 .readMore:hover,.telkomHomeWC2 .readMore:active,.readMore a:active, .readMore a:hover{  
+	background: #E62037; color: #fff !important;
+}
+.telkomHomeWC2 .readMore a{color: #000;text-align: center;    display: block;}
+
+.telkomHomeWC2 .home_boxcontainer .home_box {
+    padding:20px;
+    float: left;
+  }  
+.telkomHomeWC2 .ourAPIcontent .text-center{ font-size: 17px; text-align: center; margin-left: 60px; font-weight: bold; width: 100%; }
+.telkomHomeWC2 .hlogo .img-responsive { height: 140px !important; width: 360px !important; margin-left: 30px; } 
+
+.telkomHomeWC2 .home_boxcontainer .home_box{ width: 33.3333%; float: left;padding-bottom: 40px; } 
+.telkomHomeWC2 #top_img{     width: 57px;height: 55px; vertical-align: text-bottom; margin-left: 0px; } 
+.telkomHomeWC2 .row { margin-left: -15px; margin-right: -15px; } #details_sms { height: auto; background-color: #e5e5e5; padding: 14px; margin-bottom:10px !important; }
+ .telkomHomeWC2 #apiMore{ display: inline-block; margin-bottom: 0; font-weight: normal; text-align: center; vertical-align: middle; touch-action: manipulation; cursor: pointer; background-image: none; border: 1px solid transparent; white-space: nowrap; font-size: 15px; line-height: 1.42857143; color: #ffffff; background-color: #E62037; border-radius: 0;  margin-top: -10px; width:100%;}
+.telkomHomeWC2  #apiMore a{ color:white; text-decoration:none; display:block; padding: 8px 15px !important; }
+.telkomHomeWC2 #apiMore a:active:hover,#apiMore a:active:focus{ color: #ffffff; background-color: #E62037; }
+.telkomHomeWC2 #apiMore a:focus, .telkomHomeWC2 #apiMore a:active:focus{ outline: none; outline-offset: -2px;} 
+.telkomHomeWC2 .homeBox .portlet-content-container{ margin-left: 40px; }
+
+.carousel-control.left{
+left: 12% !important;
+}
+.carousel-control.right{
+right: 12% !important; 
+}
+.carousel-control {
+    width: 0%; 
+}
+
+#portlet_com_liferay_blogs_web_portlet_BlogsAgreggatorPortlet{
+    padding: 0px 15px;
+}
+
+
+/*homepage*/

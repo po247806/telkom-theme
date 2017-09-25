@@ -1,0 +1,135 @@
+.APISummary .apiHeaderPart {
+    position: relative;
+}
+
+.APISummary .trynow {    
+    position: absolute;
+    right: 0%;
+    top: 0 !important;
+}
+
+.APISummary .apiName h4 {
+    padding: 0px 0px 20px 0px !important;
+}
+
+.APISummary img.bookmarkImg {
+    height: 35px !important;
+    width: 35px !important;
+}
+
+.APISummary  a.bookmarkbutton {
+    background: none;
+    margin-left: -14px !important;
+    border: 0;
+
+}
+
+.APISummary  a.bookmarkbutton:hover{background:none !important;}
+
+.APISummary  .example p {
+    margin: 20px 0 20px 0;
+}
+.APISummary  h5.subheadingapi {
+    padding-bottom: 20px;
+}
+
+@media only screen and (min-width : 320px) and (max-width : 480px)  and (orientation : portrait){ 
+.APISummary .buttontype {
+    padding: 4px 13px !important;
+    margin: 1px !important;
+}
+
+.APISummary img.bookmarkImg {
+    height: 33px;
+    width: 33px;
+}
+}
+
+/*********** tab css **********/
+
+
+.api-tabs .nav>li>a:hover,.api-tabs .nav>li>a:focus {
+    text-decoration: none;
+    background-color: #e62037;
+    color: #fff;
+   border-color: #e62037;
+}
+
+.api-tabs .nav-tabs>li {
+    float: left;
+    margin-right: -2px;
+}
+.api-tabs .tabContent {
+    margin-bottom: 20px;
+}
+.api-tabs .nav-tabs>li.active>a,.api-tabs  .nav-tabs>li.active>a:hover,.api-tabs .nav-tabs>li.active>a:focus {
+    color: #2c3e50;
+    background-color: #fff;
+        border: 1px solid #e62037;
+    border-bottom-color: transparent;
+    cursor: default;
+}
+
+.api-tabs div#apidetailpart2 {
+    border: 1px solid #e62037;
+}
+
+.api-tabs #apidetailpart2 h5{
+    padding-bottom:20px;
+}
+
+.api-tabs .tab-content,.api-tabs .tab-contentlable2,.api-tabs .tab-contentlable3 {
+    display: block;
+    position: inherit;
+}
+.api-tabs .tabButtonsDiv{
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+.api-tabs .descriptionContent h5{
+    margin: 20px 0 20px 0 !important;
+}
+
+.api-tabs #showContent p, .api-tabs #showContent h5 {
+    padding-top: 10px;
+}
+
+.api-tabs .tabButtons {
+    border: 1px solid;
+    padding: 18px 60px 18px 60px;
+    font-size: 19px;
+    font-weight: bold;
+}
+.api-tabs .tabButtonsDiv a:hover,.api-tabs .tabButtonsDiv a:focus
+{
+    border: 1px solid #E62037 !important;
+    color:#706f6f !important;
+}
+
+.api-tabs .tab-content, .api-tabs .tab-contentlable2,.api-tabs .tab-contentlable3 {
+    width: 100%;
+    padding: 15px;
+    top: 0;
+    background:#fff;
+}
+
+/*********   Lower part ***********/
+
+
+.related-api-detail .subheadingapi{
+    padding-bottom:20px;
+}
+.related-api-detail .downoloadDocument{
+    float: right;
+}
+
+.related-api-detail .tryAlign {
+	position:relative !important; 
+	text-align: right;
+}
+
+.related-api-detail .example p {
+    padding: 10px !important;
+ }
+
+ 

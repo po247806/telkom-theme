@@ -1,0 +1,51 @@
+.popuppage .popupContent {
+    padding: 12% 0 12% 0;
+    font-size: 14px;
+    line-height: 1.7em !important;
+    font-weight: bold;
+    text-align: center;
+}
+
+.popuppage .popupTop {
+    background: #E62037;
+    height: 10px;
+    margin: 0 1px 0 1px;
+}
+
+.popuppage .modalDialog>div {
+    width: 55%;
+    position: relative;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #e62037;
+    border-radius: 3px;
+}
+
+
+
+
+
+
+.trynow {
+    position: absolute;
+    right: 21.5%;
+    margin: 0 5px -66px 0;
+}
+
+.trynow a, .trynow button {
+    padding: 7px 15px 7px;
+    margin: 5px;
+    border-radius: 2px!important;
+    letter-spacing: 1.15px;
+}
+
+.trynow a:hover,.trynow a:focus{
+    color:#fff !important;
+}
+
+
+.popupUnSuccess {
+    position: relative;
+    vertical-align: middle !important;
+    transform: translateY(100%);
+}
